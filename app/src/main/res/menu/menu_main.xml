@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.smaniro.smanirocbt.MainActivity">
+    <item
+        android:id="@+id/menu_hapus_url"
+        android:icon="@android:drawable/ic_input_delete"
+        android:title= "Hapus URL Tersimpan" />
+    <item
+        android:id="@+id/menu_tentang"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title= "@string/tentang" />
+</menu>
